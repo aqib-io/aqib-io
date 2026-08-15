@@ -14,7 +14,7 @@ Most of my day is spent in **React, Next.js, Node.js and TypeScript**, with **Py
   - [#15944](https://github.com/payloadcms/payload/pull/15944) — enforce access control in the archive block query
   - [#15956](https://github.com/payloadcms/payload/pull/15956) — fix jobs silently failing under `runHooks`
   - [#16177](https://github.com/payloadcms/payload/pull/16177) — cross-site navigate-mode cookie auth with CSRF
-- **Nextly** — I'm a core engineer on [nextlyhq/nextly](https://github.com/nextlyhq/nextly), an open-source, type-safe app framework for Next.js (auth, RBAC, media, hooks, plugins). My work there is under my [@aqib-rx](https://github.com/aqib-rx) account.
+- **Nextly** — I'm a core engineer on [nextlyhq/nextly](https://github.com/nextlyhq/nextly), an open-source, type-safe app framework for Next.js (auth, RBAC, media, hooks, plugins). 👉 **[See my Nextly contributions](https://github.com/nextlyhq/nextly/pulls?q=is%3Apr+author%3Aaqib-rx+is%3Aclosed)** (my work there is under my [@aqib-rx](https://github.com/aqib-rx) account).
 
 ---
 
@@ -28,4 +28,4 @@ Most of my day is spent in **React, Next.js, Node.js and TypeScript**, with **Py
 
 - Website — [muhammadaqib.com](https://muhammadaqib.com/)
 - LinkedIn — [Muhammad Aqib](https://www.linkedin.com/in/muhammad-aqib-awan/)
-- Also me on GitHub — [@aqib-rx](https://github.com/aqib-rx) (my Nextly work)
+- My Nextly work — [@aqib-rx](https://github.com/aqib-rx) · [contributions](https://github.com/nextlyhq/nextly/pulls?q=is%3Apr+author%3Aaqib-rx+is%3Aclosed)
