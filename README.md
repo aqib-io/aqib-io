@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi, I'm Muhammad Aqib 👋
 
-<!--
-**aqib-io/aqib-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior full-stack engineer working across the JavaScript stack, currently a Lead Engineer at Revnix. I build production web apps and the infrastructure under them, and I spend a lot of my time in open source.
 
-Here are some ideas to get you started:
+Most of my day is spent in **React, Next.js, Node.js and TypeScript**, with **Python / FastAPI** and **AWS** on the backend side. Open to remote work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🔧 What I work on
+
+- **[tokensmith](https://github.com/aqib-io/tokensmith)** — a framework-agnostic JWT token library I built: storage, auto-refresh, cross-tab sync and reactive auth state, with zero dependencies. `TypeScript`
+- **[Payload CMS](https://github.com/payloadcms/payload)** — I contribute fixes to Payload (the open-source Next.js framework, 44k+ stars). A few of mine:
+  - [#16030](https://github.com/payloadcms/payload/pull/16030) — preselect the current folder on bulk upload *(merged)*
+  - [#15944](https://github.com/payloadcms/payload/pull/15944) — enforce access control in the archive block query
+  - [#15956](https://github.com/payloadcms/payload/pull/15956) — fix jobs silently failing under `runHooks`
+  - [#16177](https://github.com/payloadcms/payload/pull/16177) — cross-site navigate-mode cookie auth with CSRF
+- **Nextly** — I'm a core engineer on [nextlyhq/nextly](https://github.com/nextlyhq/nextly), an open-source, type-safe app framework for Next.js (auth, RBAC, media, hooks, plugins). My work there is under my [@aqib-rx](https://github.com/aqib-rx) account.
+
+---
+
+#### 🧰 Tech
+
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `Python` · `FastAPI` · `PostgreSQL` · `AWS`
+
+---
+
+#### 🌐 Links
+
+- Website — [muhammadaqib.com](https://muhammadaqib.com/)
+- LinkedIn — [Muhammad Aqib](https://www.linkedin.com/in/muhammad-aqib-awan/)
+- Also me on GitHub — [@aqib-rx](https://github.com/aqib-rx) (my Nextly work)
