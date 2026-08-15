@@ -2,7 +2,7 @@
 
 Senior full-stack engineer working across the JavaScript stack, currently a Lead Engineer at Revnix. I build production web apps and the infrastructure under them, and I spend a lot of my time in open source.
 
-Most of my day is spent in **React, Next.js, Node.js and TypeScript**, with **Python / FastAPI** and **AWS** on the backend side. Open to remote work.
+Most of my day is spent in **React, Next.js, Vue, Node.js and TypeScript**, with **Python / FastAPI** and **AWS** on the backend side. Open to remote work.
 
 ---
 
@@ -20,7 +20,7 @@ Most of my day is spent in **React, Next.js, Node.js and TypeScript**, with **Py
 
 #### 🧰 Tech
 
-`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `Python` · `FastAPI` · `PostgreSQL` · `AWS`
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Vue` · `Node.js` · `Python` · `FastAPI` · `PostgreSQL` · `AWS`
 
 ---
 
