@@ -8,7 +8,7 @@ Most of my day is spent in **React, Next.js, Vue, Node.js and TypeScript**, with
 
 #### 🔧 What I work on
 
-- **[tokensmith](https://github.com/aqib-io/tokensmith)**: a framework-agnostic JWT token library I built, with storage, auto-refresh, cross-tab sync and reactive auth state, and zero dependencies. `TypeScript`
+- **[tokensmith](https://github.com/aqib-io/tokensmith)**: a framework-agnostic JWT token library I built, with storage, auto-refresh, cross-tab sync, reactive auth state, and first-class React and Vue adapters, all with zero dependencies. `TypeScript`
 - **[Payload CMS](https://github.com/payloadcms/payload)**: I contribute fixes to Payload (the open-source Next.js framework, 44k+ stars). A few of mine:
   - [#16030](https://github.com/payloadcms/payload/pull/16030): preselect the current folder on bulk upload *(merged)*
   - [#15944](https://github.com/payloadcms/payload/pull/15944): enforce access control in the archive block query
